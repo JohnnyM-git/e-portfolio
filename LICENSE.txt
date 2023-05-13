@@ -1,0 +1,7 @@
+Copyright © Frontend Simplified Pty Ltd
+
+You can't re-sell or re-distribute - even if modified.
+You can't host this portfolio publicly on GitHub. 
+You can't use this code for commercial use.
+
+This code is for personal use only.
