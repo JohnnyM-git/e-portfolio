@@ -30,7 +30,7 @@ function Modal({ isOpen, project, closeHandler }) {
                 >
                   View Online <BsArrowRight />
                 </a>
-                {project.githubLinK &&
+                {project.githubLink &&
                 <a
                 href={project.githubLink}
                 target="_blank"
