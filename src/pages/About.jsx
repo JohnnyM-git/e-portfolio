@@ -24,7 +24,9 @@ const about = [
   "AWS",
   "CSS frameworks",
   "Web Widgets",
-  "Wordpress",
+  "SQL",
+  "MySQL",
+  "Auth0"
 ];
 
 function randomSkill() {

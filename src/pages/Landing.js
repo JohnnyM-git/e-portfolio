@@ -23,6 +23,10 @@ const about = [
   "Redux",
   "State Management",
   "CSS frameworks",
+  "SQL",
+  "MySQL",
+  "Auth0",
+  
 ];
 
 function randomSkill() {
