@@ -105,11 +105,11 @@ export default function Landing() {
           className={"landing__header"}
         />
         <AnimatedHeader
-          headerText={"Junior Developer."}
+          headerText={"Full Stack Developer."}
           className={"landing__sub-header"}
         />
         <p className="landing__subtext">
-          Frontend Developer / Frontend Software Engineer
+          Full Stack Developer / Full Stack Software Engineer
         </p>
         <div className="landing__iconscontainer">
           <a
@@ -137,7 +137,7 @@ export default function Landing() {
       <div className="about__canvas">
         <Canvas dpr={[1, 2]} camera={{ position: [0, 0, 40], fov: 90 }}>
           <fog attach="fog" args={["#202025", 0, 80]} />
-          <Cloud count={10} radius={20} />
+          <Cloud count={12} radius={23} />
           <OrbitControls autoRotate autoRotateSpeed={3} enableZoom={false} />
         </Canvas>
       </div>

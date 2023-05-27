@@ -1,10 +1,15 @@
 export const transferrableSkillsConfig = [
+  "Critical thinking",
+  "Problem solving",
   "Confident leadership skills",
   "Exceptional communication skills",
   "Outstanding work ethic",
   "Effective teaching skills",
   "Professional client relations",
   "Quick learner",
-  "Creative problem solver",
   "Extraordinary time management skills",
+  "Strong attention to detail",
+  "Excellent organizational skills",
+  "Ability to work independently",
+  "Customer focused",
 ];

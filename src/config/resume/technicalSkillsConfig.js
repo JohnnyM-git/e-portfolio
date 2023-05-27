@@ -1,6 +1,6 @@
 export const technicalSkillsConfig = [
-  "HTML",
-  "CSS",
+  "HTML5",
+  "CSS3",
   "Debugging",
   "Git/GitHub",
   "JavaScript",
@@ -13,10 +13,23 @@ export const technicalSkillsConfig = [
   "SQL",
   "NoSQL",
   "Google Cloud",
+  "AWS",
   "APIs",
   "Auth0",
   "NPM/Yarn",
   "Firebase",
   "Sass",
   "Material UI",
+  "Bootstrap",
+  "Jest",
+  "State Management",
+  "Firebase",
+  "mongoDB",
+  "NodeJS",
+  "RESTful APIs",
+  "Jira",
+  "Trello",
+  "Asana",
+
+
 ];

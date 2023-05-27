@@ -7,8 +7,8 @@ import Clouds from "../assets/clouds.png";
 import { AnimatedHeader } from "../components/AnimateHeader";
 
 const about = [
-  "HTML",
-  "CSS",
+  "HTML5",
+  "CSS3",
   "JavaScript",
   "React",
   "TypeScript",
@@ -20,13 +20,22 @@ const about = [
   "React",
   "Redux",
   "State Management",
-  "Vue",
   "AWS",
   "CSS frameworks",
   "Web Widgets",
   "SQL",
   "MySQL",
-  "Auth0"
+  "Auth0",
+  "Firebase",
+  "MongoDB",
+  "NodeJS",
+  "RESTful APIs",
+  "Jest",
+  "Google Cloud",
+  "AWS",
+  "Jira",
+  "Trello",
+  "Asana",
 ];
 
 function randomSkill() {
@@ -100,16 +109,16 @@ function About() {
     <div className="container" id="about">
       <div className="about__wrapper" data-aos="fade-down" data-aos-delay="50">
         <div className="about__left playfair">
-        I'm a Frontend Software Engineer with a strong passion for building web applications with great user experiences.
+        I'm a Full Stack Software Engineer with a strong passion for building web applications with great user experiences.
         </div>
         <div className="about__right lato">
-          I'm a 26 year old Canadian frontend software engineer with a strong
+          I'm a 26 year old Canadian full stack software engineer with a strong
           passion for developing websites with great user experiences. I'm
           currently working on a team of developers working on <a href="https://www.nests.social"><span className="purple">nests.social</span></a> a
-          social media focusing on giving users the best experiences.
+          social media focusing on going back to the roots of social media.
           <br />
           <br />
-          Continuously working towards improving my knowledge and skills to
+          I'm continuously working towards improving my knowledge and skills to
           develop technologies that contribute to the betterment of society.
         </div>
       </div>
