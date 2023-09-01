@@ -11,6 +11,9 @@ import {
   SiMysql,
   SiAuth0,
   SiNpm,
+  SiPostgresql,
+  SiMongodb,
+  SiPostman,
 } from "react-icons/si";
 
 export const skillsConfig = [
@@ -35,6 +38,11 @@ export const skillsConfig = [
     color: "rgb(45, 121, 199)",
   },
   {
+    icon: <SiNextdotjs />,
+    text: "Next.js",
+    color: "rgb(0, 0, 0)",
+  },
+  {
     icon: <FaReact />,
     text: "React.js",
     color: "rgb(124, 197, 217)",
@@ -45,24 +53,34 @@ export const skillsConfig = [
     color: "rgb(118,74,188)",
   },
   {
-    icon: <SiFirebase />,
-    text: "Firebase",
-    color: "rgb(246,130,13)",
-  },
-  {
     icon: <SiSass />,
     text: "Sass",
     color: "rgb(204, 102, 153)",
   },
   {
-    icon: <SiNextdotjs />,
-    text: "Next.js",
-    color: "rgb(0, 0, 0)",
+    icon: <SiMongodb />,
+    text: "MongoDB",
+    color: "#4DB33D",
+  },
+  {
+    icon: <SiFirebase />,
+    text: "Firebase",
+    color: "rgb(246,130,13)",
   },
   {
     icon: <SiMysql />,
     text: "MySQL",
     color: "rgb(0, 114, 198)",
+  },
+  {
+    icon: <SiPostgresql />,
+    text: "PostgreSQL",
+    color: "#0064a5",
+  },
+  {
+    icon: <SiPostman />,
+    text: "Postman",
+    color: "#ef5b25",
   },
   {
     icon: <SiAuth0 />,

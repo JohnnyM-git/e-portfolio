@@ -47,7 +47,7 @@ function Main() {
         <About />
         <Skills />
         <Projects />
-        <Resume />
+        {/* <Resume /> */}
         <Contact setRotateSpeed={setRotateSpeed} />
         <Footer />
       </div>
