@@ -25,6 +25,7 @@ const about = [
   "CSS frameworks",
   "SQL",
   "MySQL",
+  "PostgreSQL",
   "Auth0",
   
 ];

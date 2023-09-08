@@ -10,7 +10,7 @@ const Loader = () => {
   async function load() {
     await sleep(3000);
     setIsLoaded(true);
-    await sleep(1000);
+    await sleep(800);
     setFadeOutLoader(true);
     document.body.classList.remove("overflow__body");
     await sleep(1500);

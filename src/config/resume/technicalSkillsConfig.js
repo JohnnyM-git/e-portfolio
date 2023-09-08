@@ -30,6 +30,4 @@ export const technicalSkillsConfig = [
   "Jira",
   "Trello",
   "Asana",
-
-
 ];
