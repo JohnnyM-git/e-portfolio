@@ -54,7 +54,7 @@ const projectsConfig = [
     type: "Web App",
     description:
     "Nest.social is a recently launched social media platform that places a high priority on user experience. Our platform is designed with the user in mind, and we have leveraged cutting-edge technologies such as NextJS and Google Firebase to achieve this goal.",
-    liveLink: "https://nests.social/",
+    liveLink: "",
     githubLink: "",
     coverImage: NestsCoverImage,
     topImage: NestsFrontImage,

@@ -23,13 +23,17 @@ function Modal({ isOpen, project, closeHandler }) {
               <div className="modal__type">{project.type}</div>
               <div className="modal__description">{project.description}</div>
               <div className="modal__view--button-wrapper ">
+                {project.liveLink ? ( 
                 <a
-                  href={project.liveLink}
-                  target="_blank"
-                  className="modal__view-online--button playfair"
+                href={project.liveLink}
+                target="_blank"
+                className="modal__view-online--button playfair"
                 >
                   View Online <BsArrowRight />
                 </a>
+                ) : (
+                  ""
+                )}
                 {project.githubLink &&
                 <a
                 href={project.githubLink}

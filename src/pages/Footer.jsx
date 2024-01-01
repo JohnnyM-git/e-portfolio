@@ -26,7 +26,7 @@ const Footer = () => {
           <a href={resume} target="_blank">Resume</a>
         </div>
       </div>
-      <div>Copyright &copy; 2023 Johnny Martens</div>
+      <div>Copyright &copy; 2024 Johnny Martens</div>
     </div>
   );
 };

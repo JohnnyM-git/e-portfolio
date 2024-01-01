@@ -109,13 +109,15 @@ function About() {
     <div className="container" id="about">
       <div className="about__wrapper" data-aos="fade-down" data-aos-delay="50">
         <div className="about__left playfair">
-        I'm a Full Stack Software Engineer with a strong passion for building web applications with great user experiences.
+          I'm a Full Stack Software Engineer with a strong passion for building
+          web applications with great user experiences.
         </div>
         <div className="about__right lato">
-          I'm a 26 year old Canadian full stack software engineer with a strong
+          I'm a 27 year old Canadian full stack software engineer with a strong
           passion for developing websites with great user experiences. I'm
-          currently working on a team of developers working on <a href="https://www.nests.social"><span className="purple">nests.social</span></a> a
-          social media focusing on going back to the roots of social media.
+          currently working on a team of developers working on a project that
+          involves an optimization algorithm to acheive greater material
+          utilization and reduce material waste.
           <br />
           <br />
           I'm continuously working towards improving my knowledge and skills to
